@@ -6,3 +6,51 @@
 body{
     color:red;
 }
+
+.intro {
+    position: fixed;
+    height:100vh;
+    width: 100%;
+    background:url('../res/img1.jpg')no-repeat;
+    background-size: 100% 100%;
+}
+.mid{
+    position: fixed;
+    height:100vh;
+    width: 100%;   
+    background:url('../res/img2.JPG')no-repeat;
+    background-size: 100% 100%;
+    background-color: yellow;
+}
+
+.end{
+    position: fixed;
+    height:100vh;
+    width: 100%;
+    background:url('../res/img5.png')no-repeat;
+    background-size: 100% 100%;
+}
+
+/* transition color
+ */
+
+ .introt {
+    position: fixed;
+    height:100vh;
+    width: 100%;
+    background-color: red;
+}
+.midt{
+    position: fixed;
+    height:100vh;
+    width: 100%;   
+    background-color: yellow;
+}
+
+.endt{
+    position: fixed;
+    height:100vh;
+    width: 100%;
+    background-color:aqua;
+    /* position: fixed; */
+}
